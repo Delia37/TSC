@@ -6,7 +6,7 @@ Am inceput implementarea proiectului pornind de la schema electrica data in enun
 
 ## Arhitectură Generală a Sistemului
 
-![Diagrama Bloc](Images/image.png)
+![Diagrama Bloc](Images/diagrama.png)
 
 ESP32-C6-WROOM-1-N8 acționează ca nod central, comunicând cu toate celelalte componente prin interfețe standard (I2C, SPI, GPIO). Alimentarea este asigurată de o baterie Li-Po controlată de un încărcător dedicat și monitorizată printr-un fuel gauge.
 
