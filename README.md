@@ -44,6 +44,12 @@ ESP32-C6-WROOM-1-N8 acționează ca nod central, comunicând cu toate celelalte 
 
 ---
 
+## Bill of Materials (CSV)
+
+Fișierul complet BOM este disponibil aici: [Manufacturing/bom.csv](../Manufacturing/bom.csv)
+
+---
+
 ## Alocare Pini ESP32-C6
 
 | Componentă        | Pin ESP32 | Funcție        |
@@ -61,4 +67,15 @@ ESP32-C6-WROOM-1-N8 acționează ca nod central, comunicând cu toate celelalte 
 | SD Card – CS     | IO2       | SPI CS SD Card |
 
 ---
+## Imagini Asamblare și PCB
 
+### Randare 3D
+![Randare 3D](Images/3d.jpeg)
+
+### PCB - Top Layer
+![PCB Top](Images/pcb_top.jpeg)
+
+### PCB - Bottom Layer
+![PCB Bottom](Images/pcb_bottom.jpeg)
+
+---
